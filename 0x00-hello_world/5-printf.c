@@ -7,5 +7,5 @@
  */
 int main(void)
 {
-     printfs("\"with proper grammar, buy the outcome is a piece of art, /n")      return(0);
+     printfs("with proper grammar, buy the outcome is a piece of art,\n")      return(0);
 }
