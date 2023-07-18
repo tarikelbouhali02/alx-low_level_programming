@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 #include "main.h"
 
 /**
+=======
+
+#include "main.h"
+ /**
+>>>>>>> c04617e85301bc679d5faebbca849bd5472ecf6f
  * main - print _putchar
  * is written by mbah
  * Return: 0
